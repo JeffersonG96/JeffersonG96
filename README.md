@@ -13,7 +13,7 @@
 - 🧑 Apasionado por aprender constantemente nuevas tecnologías
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Destacados*
 <table>
 <tr>
 <td width="50%">
