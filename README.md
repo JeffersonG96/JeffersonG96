@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a >Jefferson Guamán Egas</a> 👋</h1>
 </div>
-<img src="./bannerJG.png">
+<img src="https://imgur.com/uHEND8X.png">
 
 ## Sobre mi
 
@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Pulsera IoT</h3>
 <div align="center">
-<a href="https://github.com/JeffersonG96/EdgeImpulse-ESP32-Platformio" target="_blank"><img src="./sp32.png" width="250" alt="Pulsera IoT"></a>
+<a href="https://github.com/JeffersonG96/EdgeImpulse-ESP32-Platformio" target="_blank"><img src="https://imgur.com/OxMWvb7.png" width="250" alt="Pulsera IoT"></a>
 <p>
 <a href="https://github.com/JeffersonG96/EdgeImpulse-ESP32-Platformio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -34,7 +34,7 @@
                <br>
 <h3 align="center">Aplicación de Monitoreo</h3>
 <div align="center">                                       
-<a href="https://github.com/JeffersonG96/flutter-ts" target="_blank"><img src="./app.png" width="200" alt="Aplicación de Monitoreo"></a>
+<a href="https://github.com/JeffersonG96/flutter-ts" target="_blank"><img src="https://imgur.com/xZur322.png" width="200" alt="Aplicación de Monitoreo"></a>
 <br>
 <p>
 <a href="https://github.com/JeffersonG96/flutter-ts" target="_blank">
