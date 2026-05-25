@@ -37,7 +37,9 @@ Companion mobile app for the smart wristband, built with **Dart/Flutter**. Recei
 ## Publications
 
 - **Fall Detection with Artificial Intelligence and IoT Health Monitoring System**
+- 
   _IEEE Conference Paper_ — **[Read on IEEE Xplore ](https://ieeexplore.ieee.org/document/10308997)**
+  
   Designed and implemented an end-to-end AI pipeline: data collection from IMU sensors → model training with Edge Impulse → on-device inference on ESP32 → real-time alerting via mobile app.
 
 ---
