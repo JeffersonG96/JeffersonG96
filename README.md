@@ -10,11 +10,11 @@ I develop autonomous AI agents and intelligent systems using modern agentic arch
 
 ## Featured Projects
 
-### [AI Agents with LangGraph](https://github.com/JeffersonG96/agents)
+### [Financial Deep Research Agent](https://github.com/JeffersonG96/financial_deep_research_agent)
 
-Multi-agent system built with **LangChain** and **LangGraph**, featuring tool-calling agents, a FastAPI backend, and LangGraph Studio integration. Demonstrates agentic AI patterns including state management, conditional routing, and human-in-the-loop workflows.
+Multi-agent system that combines a **RAG pipeline** over SEC filings (10-K, 10-Q) with **real-time market data** via a Yahoo Finance MCP server. An orchestrator coordinates specialized researcher agents — one queries historical data from Qdrant (hybrid retrieval), another fetches live prices — while an editor agent reviews findings and delivers a well-structured, cited response.
 
-`Python` · `LangChain` · `LangGraph` · `FastAPI` · `Docling` · `Transformers`
+`Python` · `LangGraph` · `LangChain` · `Qdrant` · `Docling` · `Gemini` · `MCP` · `Docker`
 
 ---
 
@@ -40,7 +40,11 @@ Companion mobile app for the smart wristband, built with **Dart/Flutter**. Recei
 
   _IEEE Conference Paper_ — **[Read on IEEE Xplore ](https://ieeexplore.ieee.org/document/10308997)**
   
-  Designed and implemented an end-to-end AI pipeline: data collection from IMU sensors → model training with Edge Impulse → on-device inference on ESP32 → real-time alerting via mobile app.
+  Designed and implemented an end-to-end AI pipeline:
+  - Data collection from IMU sensors
+  - Model training with Edge Impulse
+  - On-device inference on ESP32
+  - Real-time alerting via mobile app.
 
 ---
 
